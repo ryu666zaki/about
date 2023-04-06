@@ -1,5 +1,5 @@
 
-<h3 align="center">Web3 / back-end developer</h3>
+<h3 align="left">Web3 / back-end developer</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryu666zaki&show_icons=true&theme=dark&locale=en&layout=compact" alt="ryu666zaki" /></p>
 
