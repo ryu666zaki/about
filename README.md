@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryu666zaki&label=Views&color=9929bd&style=plastic" alt="ryu666zaki" /> </p>
 
 - [👨‍💻 All of my projects](https://github.com/ryu666zaki?tab=repositories)
-- [📩 Write to me](https://debank.com/hi/0x2Dbc75d49a47Cdf36A3C63f8802Dcc0F3766b386)
-- 🍩**Donate**: `0x2Dbc75d49a47Cdf36A3C63f8802Dcc0F3766b386`
+- [📩 Write to me](https://debank.com/hi/0x27512edc51cAd8a5277090183858677915CC95c4)
+- 🍩**Donate**: `0x27512edc51cAd8a5277090183858677915CC95c4`
 
 
 <h3 align='center'>If something does not work for you, write to me</h3>
