@@ -1,4 +1,3 @@
-<h3 align="center">Web3 / back-end developer</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ryu666zaki&label=Views&color=9929bd&style=plastic" alt="ryu666zaki" /> </p>
 
 
