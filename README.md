@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/ryu666zaki)
+- 👨‍💻 All of my projects are available [here](https://github.com/ryu666zaki?tab=repositories)
 
 
 
