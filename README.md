@@ -8,7 +8,7 @@
 
 
 
-- [👨‍💻 All of my projects](https://github.com/ryu666zaki?tab=repositories)
+- [👨‍💻 My projects](https://github.com/ryu666zaki?tab=repositories)
 - [📩 Write to me](https://debank.com/hi/0x27512edc51cAd8a5277090183858677915CC95c4)
 - 🍩**Donate**: `0x27512edc51cAd8a5277090183858677915CC95c4`
 
